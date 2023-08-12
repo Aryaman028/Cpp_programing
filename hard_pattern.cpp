@@ -57,7 +57,7 @@
 //		}cout<<endl;
 //		
 //		}
-//	}
+//}
 	
 #include <iostream>
 
@@ -77,7 +77,6 @@ int main(){
 		for(j=i-1;j>=1;j--){
 			cout<<j;
 		}cout<<endl;
-		
 		}
 	}
 	
